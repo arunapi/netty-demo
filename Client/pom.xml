@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.arunapi.netty</groupId>
-		<artifactId>netty-demo-parent</artifactId>
+		<artifactId>netty-demo</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>echo-client</artifactId>
